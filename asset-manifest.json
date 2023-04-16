@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/soic-quotes/static/css/main.aa187982.css",
+    "main.js": "/soic-quotes/static/js/main.55017583.js",
+    "static/js/787.99f28779.chunk.js": "/soic-quotes/static/js/787.99f28779.chunk.js",
+    "index.html": "/soic-quotes/index.html",
+    "main.aa187982.css.map": "/soic-quotes/static/css/main.aa187982.css.map",
+    "main.55017583.js.map": "/soic-quotes/static/js/main.55017583.js.map",
+    "787.99f28779.chunk.js.map": "/soic-quotes/static/js/787.99f28779.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa187982.css",
+    "static/js/main.55017583.js"
+  ]
+}
